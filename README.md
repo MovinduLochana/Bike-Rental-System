@@ -1,1 +1,1 @@
-Java soring and Nextjs
+Java spring and Nextjs
